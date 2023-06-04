@@ -22,3 +22,5 @@
     <a href = "mailto:josuekuhim.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/josu%C3%A9-kuhim-862666250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![snake gif](https://github.com/josuerkuhim/josuerkuhim/blob/output/github-contribution-grid-snake.svg)
