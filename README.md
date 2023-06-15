@@ -5,7 +5,7 @@
 - 🌱 Atualmente estudando Java
 
 ![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerkuhim&show_icons=true&theme=tokyonight&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuerkuhim&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuerkuhim&theme=tokyonight&size_weight=0.5&count_weight=0.5)
 
 
 <div style="display: inline-block"><br>
