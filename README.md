@@ -1,8 +1,8 @@
 ### Olá! Eu sou Josué Kuhim
 
 
-- 🔭 Procurando estágio em Front-End & Mobile
-- 🌱 Atualmente estudando Flutter
+- 🔭 Procurando estágio em Front-End
+- 🌱 Atualmente estudando Java
 
 ![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerkuhim&show_icons=true&theme=tokyonight&rank_icon=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuerkuhim&layout=compact&theme=tokyonight)](https://github.com/josuerkuhim/github-readme-stats)
