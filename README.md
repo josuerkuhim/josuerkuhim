@@ -1,8 +1,6 @@
 ### Olá! Eu sou Josué Kuhim
 
-
-- 🔭 Procurando estágio em Front-End
-- 🌱 Atualmente estudando Java
+- 🌱 Atualmente estudando PHP
 
 ![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerkuhim&show_icons=true&theme=tokyonight&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuerkuhim&theme=tokyonight&size_weight=0.5&count_weight=0.5)
