@@ -1,5 +1,6 @@
 ### Olá! Eu sou Josué Kuhim
 
+- 💻 Trabalho com Estagiário na W5I
 - 🌱 Atualmente estudando PHP
 
 ![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerkuhim&show_icons=true&theme=tokyonight&rank_icon=github)
@@ -7,6 +8,10 @@
 
 
 <div style="display: inline-block"><br>
+    
+    <img align="center" alt="Josue-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Josue-pg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="Josue-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img  align="center" alt="Josue-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
     <img align="center" alt="Josue-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img align="center" alt="Josue-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
