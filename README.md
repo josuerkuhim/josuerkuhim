@@ -1,6 +1,6 @@
 ### Olá! Eu sou Josué Kuhim
 
-- 💻 Trabalho com Estagiário na W5I
+- 💻 Trabalho como Estagiário na W5I
 - 🌱 Atualmente estudando PHP
 
 ![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerkuhim&show_icons=true&theme=tokyonight&rank_icon=github)
