@@ -1,28 +1,32 @@
-### Olá! Eu sou Josué Kuhim
+<h1 align="center">Hi 👋, I'm Josué Kuhim</h1>
+<h3 align="center">I'm a technology enthusiast, who loves Jesus.</h3>
 
-- 💻 Trabalho como Estagiário na W5I
-- 🌱 Atualmente estudando PHP
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josuerkuhim" alt="josuerkuhim" /></a> </p>
 
-![Josue's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuerkuhim&show_icons=true&theme=tokyonight&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuerkuhim&theme=tokyonight&size_weight=0.5&count_weight=0.5)
+- 🔭 I’m currently working on **W5i**
 
+- 🌱 I’m currently learning **Adianti Framework**
 
-<div style="display: inline-block"><br>
-    <img align="center" alt="Josue-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="Josue-pg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="Josue-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img  align="center" alt="Josue-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="Josue-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img align="center" alt="Josue-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> 
-    <img align="right" alt="Josue-code" height="150" width="150" src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif"/>
-</div>
+- 🤝 I’m looking for help with **React.js**
 
-##
+- 👨‍💻 All of my projects are available at [ON WORKING](ON WORKING)
 
-<div> 
-    <a href="https://www.instagram.com/_josue.k_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:josuekuhim.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/josu%C3%A9-kuhim-862666250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- 💬 Ask me about **PHP, Laravel, Symfony, Vue.js and others**
 
-![snake gif](https://github.com/josuerkuhim/josuerkuhim/blob/output/github-contribution-grid-snake.svg)
+- 📫 How to reach me **josuekuhim.dev@gmail.com**
+
+- ⚡ Fun fact **I'm christian ✝️❤️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_josue.k_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_josue.k_" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josuerkuhim&show_icons=true&locale=en&layout=compact" alt="josuerkuhim" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josuerkuhim&show_icons=true&locale=en" alt="josuerkuhim" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josuerkuhim&" alt="josuerkuhim" /></p>
