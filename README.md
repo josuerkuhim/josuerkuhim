@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Josué Kuhim and I'm a FullStack developer, from J.Kuhim agency</h2>
+<h2 align="left">Hi 👋! My name is Josué Kuhim and I'm a FullStack developer from Brazil</h2>
 
 ###
 
