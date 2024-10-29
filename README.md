@@ -10,8 +10,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning Nest.JS.<br>🎯 Goals:  Bug-free, smooth deploys, and telepathic requirements.<br>🎲 Fun fact: My best friend it’s good old Ctrl+Z.</p>
 
 ###
@@ -56,9 +54,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=josuerkuhim&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/josuerkuhim/josuerkuhim/output/snake.svg" alt="Snake animation" />
 
 ###
